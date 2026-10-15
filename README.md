@@ -1,3 +1,3 @@
-## 🐍 Github Contr-bug-tions
+## 🐍 Github Contri-bug-tions
 
 ![Breakout contribution graph](./assets/breakout.svg)
